@@ -33,7 +33,7 @@ export default function Home() {
                 <h1 className="text-gray-900 font-semibold text-5xl lg:text-7xl">
                   Hello, I&apos;m
                   <br />
-                  Khurram Shafeeq
+                  AlisaWei
                 </h1>
                 <div className="text-lg text-gray-600 my-6">
                   I&apos;m a Freelance UI/UX Developer based in Islamabad,
