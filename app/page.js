@@ -35,12 +35,13 @@ export default function Home() {
                   <br />
                   AlisaWei
                 </h1>
-                <div className="text-lg text-gray-600 my-6">
-                  I&apos;m a Freelance UI/UX Developer based in Islamabad,
-                  Pakistan. I strives to build immersive and beautiful web
-                  applications through carefully crafted code and user-centric
-                  design.
-                </div>
+<div className="text-lg text-gray-600 my-6">
+  我是一名品牌策划与内容营销从业者，擅长文案表达、方案策划与项目推进。
+  <br /><br />
+  具备从0到1搭建内容体系、推动传播落地与实现增长转化的能力，拥有国际展会、客户接待、产品讲解及海外BD协同经验。
+  <br /><br />
+  能够将复杂信息转化为清晰、有传播力的内容，并推动项目高效落地。
+</div>
                 <Link
                   href="#"
                   className="p-button bg-primary-500 hover:bg-primary-600 border-primary-500 hover:border-primary-600 font-bold no-underline"
